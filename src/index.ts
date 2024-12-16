@@ -1,4 +1,6 @@
 /**
- * Some code reproducing a bug.
+ * See {@link Module!~someVar}
+ *
+ * See {@link Module.someVar}
  */
 export const bug = 123;
