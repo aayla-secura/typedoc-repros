@@ -2,6 +2,7 @@
   "name": "typedoc-repros",
   "dependencies": {
     "typedoc": "latest",
+    "typedoc-plugin-merge-modules": "^6.1.0",
     "typescript": "latest"
   }
 }
